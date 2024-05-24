@@ -1,0 +1,32 @@
+.navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .navButton {
+    background-color: #efecec;
+    border: none;
+    color: #080808;
+    padding: 10px 20px;
+    text-align: center;
+    text-transform:uppercase ;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 4px;
+  }
+  .navButton:hover{
+    box-shadow: 0 0 5px white;
+    transition: 1.2s;
+  }
+  
+  .navButton.active {
+    background-color: #3293c1;
+    color: #fff;
+  }
+

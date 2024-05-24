@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(rgb(31, 103, 130),rgb(195, 99, 99));
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}

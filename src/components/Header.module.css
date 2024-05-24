@@ -1,0 +1,26 @@
+.header {
+    background:linear-gradient(rgb(222, 165, 165),rgb(212, 63, 40));
+    color: #fff;
+    margin: 1rem;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 0 4px 0 rgba(44, 43, 43, 0.452);
+  }
+  
+  .header .head {
+    margin: 50px;
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-shadow: 1px 5px 6px rgba(188, 185, 185, 0.921);
+  }
+  
+  .header .in {
+    padding: 10px 12px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    width: 500px;
+    margin-top: 15px;
+  }
